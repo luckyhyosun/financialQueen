@@ -1,0 +1,7 @@
+textarea.bg-transparent::placeholder {
+    color: D8D8D8;
+}
+
+textarea.resize-none {
+    resize: none;
+}

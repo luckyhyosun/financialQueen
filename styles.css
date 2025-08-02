@@ -1,0 +1,69 @@
+@import "./styles/loginCreateAcount.css";
+@import "./styles/landingPage.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.topnav a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    color: white !important;
+}
+
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Adjust font sizes on smaller screens */
+@media (max-height: 700px) {
+    h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .form-control {
+        padding-top: 0.25rem !important;
+        padding-bottom: 0.25rem !important;
+    }
+
+    .btn {
+        padding-top: 0.25rem !important;
+        padding-bottom: 0.25rem !important;
+    }
+
+    .navbar-brand {
+        font-size: 0.9rem;
+    }
+
+    .py-1 {
+        padding-top: 0.15rem !important;
+        padding-bottom: 0.15rem !important;
+    }
+}
+
+/* More extreme adjustments for very small screens */
+@media (max-height: 500px) {
+    h1 {
+        font-size: 1.2rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+
+    .mb-2 {
+        margin-bottom: 0.25rem !important;
+    }
+
+    .my-3 {
+        margin-top: 0.25rem !important;
+        margin-bottom: 0.25rem !important;
+    }
+}

@@ -1,0 +1,5 @@
+
+.login-form-field>input::placeholder {
+    color: #D6D3D3;
+    opacity: 70%;
+}

@@ -1,0 +1,17 @@
+/* Using Bootstrap's breakpoints */
+/* default class set in xs devices */
+.page-heading {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+}
+
+@media (min-width: 992px) {
+    /* l - Large devices */
+    .page-heading {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+}
