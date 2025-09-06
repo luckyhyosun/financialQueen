@@ -1,4 +1,4 @@
-# vt25-Project - "Once Upon a Budget"
+# Once Upon a Budget
 
 ## Description
 
@@ -8,7 +8,8 @@ To break the barrier of finance as a scary subject, the application eases users 
 Based on the results of this personality quiz, financial traits are assigned to the user, and they are then given help to create a personalized financial plan that is tailored to their personality type.
 On top of that users get the chance to learn about budgeting on the education page and can discuss open questions in the forum.
 
-![LandingPageDesign](https://gits-15.sys.kth.se/iprog-students/diagnosa-hyosun-mcli2-stotter-vt25-Project/assets/26577/8085a56a-bc96-4267-89ea-73e082ce0028)
+![LandingPageDesign](https://github.com/user-attachments/assets/2f1d5a00-0e61-4edb-9dad-68792b2e852e)
+![UserPageDesign](https://github.com/user-attachments/assets/07feaddb-eba4-43f2-8782-f5e9bf913f93)
 
 ## Deployed App
 
